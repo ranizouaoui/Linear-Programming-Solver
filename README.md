@@ -3,6 +3,10 @@
 
 Welcome to the Linear Programming Solver repository! This project provides a Python implementation for solving linear programming problems using both the Big M Method and the Graphic Method.
 
+<div align="center"> 
+<img src="https://github.com/ranizouaoui/Linear-Programming-Solver/blob/main/thumb.jpg" alt="" />
+ </div>
+ 
 ## Introduction
 
 Linear programming is a mathematical technique used to optimize a system with linear constraints. This repository offers Python implementations of two powerful methods for solving linear programming problems: the Big M Method and the Graphic Method.
