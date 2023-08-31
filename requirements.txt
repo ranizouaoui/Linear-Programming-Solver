@@ -1,0 +1,7 @@
+tabulate
+pandas
+sympy
+numpy
+matplotlib
+gekko
+prettytable
