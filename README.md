@@ -22,7 +22,7 @@ cd linear-programming-solver
 ```
 2. Run the solver:
 ```
-pip install -r "requirements.txt
+pip install -r "requirements.txt"
 python solver.py
 ```
 
